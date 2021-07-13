@@ -1,0 +1,1143 @@
+section.block-slider .slider-left button.slick-arrow,
+.tingle-modal-box__content .modal-slider-fullscreen-wrapper button.slick-arrow{
+    opacity: 0;
+    z-index: -1;
+}
+
+section.block-slider .slider-left .slick-dots li,
+.reassurance-content.custom-command .slick-dots li,
+.tingle-modal-box__content .modal-slider-fullscreen-wrapper .slick-dots li{
+    background: #ADAEB2;
+    width: 9px;
+    height: 9px;
+    border-radius: 100%;
+    top: 5px;
+}
+section.block-slider .slider-left .slick-dots li.slick-active,
+.reassurance-content.custom-command li.slick-active,
+.tingle-modal-box__content .modal-slider-fullscreen-wrapper .slick-dots li.slick-active{
+    background: #00A2E0;
+    width: 9px;
+    height: 9px;
+    border-radius: 100%;
+    top: 5px;
+}
+.right-route-sec .accordion .accordion-description .adress-contact.top {
+    width: 100% !important;
+}
+section.block-slider .slider-left {
+    width: calc(100% - 611px);
+}
+section.block-slider .slider-right {
+    width: 590px;
+}
+div#sfg_fasol .Financement-text-primary:before {
+    content: ':';
+    padding-right: 4px;
+    font-weight: 600;
+}
+section.description-section .RecoveryAndFinance {
+    border: 0px;
+}
+/*section.description-section .reassurance-ico {
+    display: none !important;
+}*/
+ul.reassurance-block-list li:before{
+    opacity: 0;
+    display: none !important;
+}
+.custom-show-more .expandable-ico {
+    transform: rotate(
+90deg
+);
+}
+.custom-show-more {
+    color: #00A2E0;
+    margin-bottom: 8px;
+    cursor: pointer;
+}
+.contact.custom-show-sec {
+    display: block;
+}
+.custom-showarea .expandable-ico {
+    transform: rotate( 
+270deg
+ );
+}
+/*section.description-section .reassurance-block {
+    background: #F7F7F7;
+}
+.reassurance-block .reassurance-number {
+    background: #4CC9F9;
+    color: #020203;
+    width: 48px;
+    height: 48px;
+    font-size: 14px;
+    line-height: 130%;
+    font-family: Peugeot;
+    font-weight: 600;
+    position: static;
+}*/
+/*-----top header----*/
+header.peugeot {
+    margin: 0px;
+}
+.custom-topbar {
+    background: #F7F7F7;
+    padding: 20px;
+}
+.custom-topbar ul.custom-points li {
+    list-style: none;
+}
+.custom-topbar ul.custom-points li {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.custom-topbar ul.custom-points li img {
+    width: 16px;
+    margin-right: 9px;
+}
+.custom-topbar ul.custom-points li img.custom-tv {
+    width: 16px;
+}
+.custom-topbar ul.custom-points li img.custom-jours {
+    width: 20px;
+}
+.click-sec {
+    margin-bottom: 10px;
+}
+.click-sec .expandable-ico {
+    color: #00A2E0;
+    background: url(https://op-ffm.s3.eu-central-1.amazonaws.com/conversion/UTY-012/arrowup.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    transform: none;
+    margin-left: 2px;
+    position: relative;
+    top: -1px;
+}
+.click-sec .expandable-ico.expand-ico {
+    transform: rotate(180deg);
+}
+.value-sec {
+    background: #fff;
+    margin-bottom: 20px;
+    padding: 10px;
+    display: none;
+}
+.click-sec div#link-details {
+    font-family: 'peugeot';
+    font-size: 15px;
+    line-height: 140%;
+    color: #00A2E0;
+}
+.custom-topbar ul.custom-points li span {
+    font-size: 14px;
+    line-height: 140%;
+    display: flex;
+    align-items: center;
+    font-family: 'Peugeot',peugeotregular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #787B80;
+    font-weight: 400;
+}
+.custom-topbar ul.custom-points li img.custom-conseil {
+    width: 16px;
+}
+.custom-topbar ul.custom-points li img.custom-prix {
+    width: 12px;
+}
+/*----right sec----*/
+.custom-title {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Peugeot;
+    line-height: 130%;
+    text-transform: uppercase;
+    color: #020203;
+    margin-bottom: 5px;
+}
+.custom-desc {
+    font-size: 16px;
+    line-height: 140%;
+    display: flex;
+    align-items: center;
+    color: #787B80;
+    font-family: Peugeot;
+    margin-bottom: 16px;
+}
+section.title{
+    display: none;
+}
+/*---section bottom---*/
+.order-bar-footer,
+section.order-bar {
+    display: none !important;
+}
+
+h2.center.custom-vehicle {
+    text-align: left !important;
+    font-family: 'peugeot';
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #020203;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.custom-map-section .wrapper .inner-wrap {
+    display: flex;
+    margin-top: 40px;
+}
+.left-bonus-sec {
+    width: calc(50% - 10px);
+    margin-right: 10px;
+}
+.right-route-sec {
+    width: calc(50% - 10px);
+    margin-left: 10px;
+}
+.accordion.concessionaire {
+    padding: 11px 15px 20px 15px;
+    border: solid 2px #ececee;
+}
+.maps.top div#mapcanvas {
+    width: 100% !important;
+}
+.maps.top div#mapcanvas {
+    width: 100% !important;
+    height: 200px !important;
+}
+.right-route-sec .link.details {
+    display: none !important;
+}
+.accordion-title.link.accordion-details {
+    font-size: 16px;
+    line-height: 132%;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #020203;
+}
+.accordion-title.link.accordion-details em.CurrentDealerName.synthesis-mobile-disable {
+    color: #00A2E0;
+    display: block !important;
+    font-size: 14px;
+}
+.right-route-sec .accordion .accordion-description {
+    padding-top: 0px;
+    padding-bottom: 2px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.maps.top {
+    margin-top: 15px;
+}
+section.description-section {
+    margin-top: 15px;
+}
+.adress-contact.top .small-text.padding {
+    padding: 2px 0px;
+    line-height: normal;
+}
+.reassurance-block .reassurance-number {
+    background: #4CC9F9;
+    color: #020203;
+    width: 48px;
+    height: 48px;
+    font-size: 14px;
+    font-family: Peugeot;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: block !important;
+    margin: 0px !important;
+    top: 0px;
+    left: 30px;
+    margin-bottom: -33px !important;
+}
+/*.reassurance-content.custom-command {
+    margin-top: 0px;
+}
+.reassurance-block .reassurance-number {
+    background: #4CC9F9;
+    color: #020203;
+    width: 48px;
+    height: 48px;
+    font-size: 14px;
+    font-family: Peugeot;
+    font-weight: 600;
+    position: static;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: block !important;
+    margin-left: 20px;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+.reassurance-block ul.reassurance-block-list li {
+    font-family: 'peugeot';
+    font-size: 13px;
+    line-height: 140%;
+    text-indent: 0px;
+    color: #55575A;
+    text-align: left;
+}
+.reassurance-block .reassurance-block-title {
+    font-family: Peugeot;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.57;
+    text-align: center;
+    color: #515151;
+    padding: 0 7px;
+    min-height: 40px;
+    text-align: left;
+    text-indent: 0px;
+    padding-left: 20px;
+}*/
+/*-----right section--*/
+.header-modal .order-bar-infos .order-bar-desc {
+    font-size: 15px !important;
+    text-overflow: initial !important;
+    overflow: visible !important;
+    white-space: normal !important;
+}
+.value-sec .row.options .table-cell:not(.small-text) {
+    width: 100%;
+}
+.value-sec .row.options .small-text.table-cell {
+    width: 100px !important;
+}
+.value-sec .table-cell.expendable-highlight .big-text.inline-block {
+    font-size: 16px;
+}
+.value-sec .row.myrow .table-cell {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    font-size: 17px;
+    padding-top: 7px;
+}
+ul.custom-location-points li span {
+    font-family: 'Peugeot';
+    font-size: 14px;
+    line-height: 140%;
+    color: #55575A;
+}
+ul.custom-location-points li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+ul.custom-location-points li img {
+    width: 16px;
+    margin-right: 10px;
+}
+ul.custom-location-points li.custom-locality img {
+    width: 14px;
+}
+.shipping-ico {
+    display: none !important;
+}
+li.custom-cal span[itemprop="availability"] {
+    color: #00A2E0;
+}
+ul.custom-location-points {
+    margin-bottom: 16px;
+}
+.custom-bottom-spec {
+    background: #F7F7F7;
+    padding: 20px;
+    padding-bottom: 8px;
+}
+.custom-specpoints ul li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin-bottom: 2px;
+}
+.custom-specpoints ul li img {
+    margin-right: 9px;
+}
+.custom-specpoints ul li img.custom-lock {
+    width: 8px;
+    margin-right: 17px;
+    position: relative;
+    left: 4px;
+}
+img.custom-ant {
+    width: 16px;
+}
+.custom-specpoints {
+    margin-top: 8px;
+}
+img.custom-vector {
+    width: 15px;
+}
+section.block-slider .slider-right .RecoveryAndFinanceBlock {
+    display: none !important;
+}
+.custom-price {
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+}
+span.custom-ou {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'peugeot';
+    font-size: 16px;
+    line-height: 140%;
+    color: #787B80;
+}
+.right-route-sec .link.details.accordion-details {
+    display: none !important;
+}
+.custom-price .custom-ttc,
+.custom-price .custom-mois,
+.custom-price span.val {
+    color: #000;
+    font-family: PeugeotNew-Bold;
+    font-size: 21px;
+    font-weight: bold;
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+span.price-ttc-check {
+    font-family: PeugeotNew-Bold;
+    font-size: 16px;
+    color: #000;
+    padding-left: 7px;
+}
+.custom-specpoints ul li span {
+    font-family: 'peugeot';
+    font-size: 14px;
+    line-height: 140%;
+    display: flex;
+    align-items: center;
+    color: #787B80;
+}
+.custom-price span.val {
+    display: inline-block;
+    padding-left: 5px;
+    text-transform: capitalize;
+    font-family: PeugeotNew-Bold;
+    font-size: 16px;
+    color: #000;
+    padding-left: 7px;
+}
+.custom-btn-area button.custom-reservez {
+    background: #00A2E0;
+    font-family: 'peugeot';
+    font-size: 14px;
+    line-height: 100%;
+    display: flex;
+    align-items: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-weight: 600;
+    padding: 19px 10px;
+    /* margin-left: 18px; */
+    border: 0px;
+    cursor: pointer;
+}
+.left-bonus-sec .RecoveryAndFinance div#block-wvo-id .Prime-reprise {
+    font-size: 14px;
+    line-height: 130%;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #020203;
+    margin-bottom: 14px !important;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.RecoveryAndFinance span.Estimation-value, 
+.RecoveryAndFinance span.Prime-reprise-ttc {
+    font-size: 15px;
+    line-height: inherit;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    color: #00A2E0;
+    font-weight: 600;
+    height: auto !important;
+    width: auto !important;
+}
+.RecoveryAndFinance span.Financement-text-primary {
+    font-size: 12px;
+    line-height: 130%;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    color: #00A2E0;
+    margin: 0px !important;
+    padding-left: 5px;
+    vertical-align: middle;
+    position: relative;
+    top: 1px;
+}
+.RecoveryAndFinance span.Prime-reprise-title {
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #020203;
+    margin-bottom: 16px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 0px;
+}
+div#block-wvo-id div.Financement-text-primary {
+    font-family: 'peugeot';
+    font-size: 16px;
+    line-height: 140%;
+    color: #55575A;
+    max-width: 460px;
+    margin-bottom: 16px;
+}
+.RecoveryAndFinance button#widgetView,
+div#sfg_fasol button#btnFinancement {
+    width: auto;
+    padding: 8px 27px;
+    min-height: 46px;
+    margin-bottom: 4px;
+}
+.RecoveryAndFinanceHr {
+    display: none !important;
+}
+body .RecoveryAndFinance {
+    padding: 0px;
+    border: 0px;
+}
+div#block-wvo-id, div#sfg_fasol {
+    padding: 11px 15px 11px 15px;
+    border: solid 2px #ececee;
+    margin-bottom: 18px;
+    width: auto;
+    max-width: 100%;
+    display: block;
+}
+div#sfg_fasol .Financement-text-primary {
+    display: inline-block;
+    font-size: 15px;
+    line-height: 130%;
+    letter-spacing: 0.5px;
+    color: #020203;
+}
+.horaire, .custom-siret {
+    display: inline-block;
+    vertical-align: top;
+}
+.Financement-text-primary .monthly-price, .Financement-text-primary .price-unit {
+    font-size: 15px !important; 
+    line-height: 100%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #00A2E0 !important;
+    font-weight: 600;
+}
+div#sfg_fasol .Financement-text-secondary, 
+div#sfg_fasol .Financement-text-secondary .firstacount-price {
+    font-family: 'peugeot';
+    font-size: 14px;
+    line-height: 140%;
+    color: #ADAEB2;
+    opacity: 1;
+    margin-top: 5px;
+    margin-bottom: 16px;
+    font-weight: 500;
+}
+div#sfg_fasol .Financement-text-fourthly a {
+    font-family: 'peugeot' !important;
+    font-size: 13px;
+    line-height: 140%;
+    color: #787B80 !important;
+    font-weight: 500 !important;
+}
+div#sfg_fasol .Financement-text-fourthly, 
+div#sfg_fasol .Financement-legaltext {
+    font-family: 'peugeot';
+    font-size: 14px;
+    line-height: 140%;
+    color: #787B80;
+    opacity: 1;
+    margin-top: 2px;
+    margin-bottom: 15px;
+}
+div#sfg_fasol .Financement-Title {
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #020203;
+    display: inline-block;
+    margin: 0px;
+    padding-right: 7px;
+}
+.RecoveryAndFinance span.Estimation-value {
+    padding-left: 3px;
+}
+.adress .title {
+    margin-top: 0px;
+}
+.contact .title {
+    margin-top: 0px;
+}
+.custom-mobile{
+    display: none !important;
+}
+/*section.description-section .reassurance-block .reassurance-block-title {
+    font-family: Peugeot !important;
+    font-size: 14px !important;
+    line-height: 130% !important;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #020203 !important;
+}*/
+.custom-topbar ul.custom-points .slick-track .slick-slide {
+    background: none !important;
+}
+
+.left-bonus-sec span.info-tooltip-reprise {
+    background: url(https://www.peugeotwebstore.com/Styles/SOLV0/AX/AP/assets/info-tooltip.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 16px;
+    height: 16px;
+}
+.header-modal .order-bar-infos .order-bar-desc {
+    font-size: 15px !important;
+    text-overflow: initial !important;
+    overflow: visible !important;
+    white-space: normal !important;
+}
+.custom-topbar ul.custom-points {
+    margin-bottom: 0px !important;
+}
+div#sfg_fasol .Financement-text-fourthly {
+    font-family: HelveticaNeue,Helvetica !important;
+    font-weight: 400;
+}
+div#sfg_fasol .Financement-text-fourthly a {
+    font-family: HelveticaNeue,Helvetica !important;
+    font-weight: 400 !important;
+}
+button.custom-contact-button {
+    background: #00A2E0;
+    font-family: 'Peugeot';
+    font-size: 10px;
+    line-height: 100%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border: 0px;
+    min-height: 42px;
+    margin-top: 3px;
+    font-weight: 600;
+    cursor: pointer;
+}
+h2.synthesis-mobile-disable {
+    margin-top: 15px;
+}
+h2.custom-new-heading {
+    font-family: 'peugeot';
+    font-size: 22px;
+    line-height: 130%;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #020203;
+}
+.right-route-sec .telphone {
+    width: 200px;
+    display: inline-block;
+}
+.mobile-fixed-bar{
+    display: none !important;
+}
+.value-sec .table .row.myrow,
+.value-sec .table .row.options{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    max-width: 100%;
+}
+.right-route-sec .adress-contact.top .small-text.padding span, .NumSIRET em {
+    color: #55575A;
+    margin-top: 9px !important;
+    display: inline-block;
+    margin-bottom: 9px !important;
+}
+.horaire {
+    cursor: pointer;
+}
+span.icon-voir-open {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    top: -2px;
+    font-family: 'Roboto';
+    background: url(https://op-ffm.s3.eu-central-1.amazonaws.com/conversion/UTY-012/arrowup.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 12px;
+    height: 8px;
+}
+.horaire.custom-contact-show span.icon-voir-open {
+    transform: rotate(180deg);
+}
+.contact {
+    display: none;
+}
+.oa-heading{
+    visibility: hidden;
+}
+@media(min-width: 768px){
+    .custom-topbar ul.custom-points {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    /*.reassurance-block {
+        border-left: 2px solid #fff !important;
+    }
+    section.description-section .reassurance-block {
+        min-height: 300px;
+    } */   
+    
+    .custom-topbar ul.custom-points .slick-track .slick-slide {
+        width: auto !important;
+        background: none !important;
+    }
+    .custom-topbar ul.custom-points .slick-track {
+        width: 100% !important;
+        transform: none !important;
+    }
+    .custom-topbar ul.custom-points .slick-track {
+        width: 100% !important;
+        transform: none !important;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+    }
+    .custom-topbar ul.custom-points li {
+        width: auto !important;
+    }
+    .custom-topbar ul.custom-points li {
+        padding-left: 12px;
+        padding-right: 12px;
+        display: flex !important;
+        align-items: center;
+    }  
+    .custom-topbar {
+        margin-bottom: 30px !important;
+    }  
+    .header-modal .order-bar-infos .order-bar-desc {
+        width: calc(100% - 22%);
+    }
+}
+@media(max-width: 1094px){
+    .custom-topbar ul.custom-points li {
+        padding-left: 6px;
+        padding-right: 6px;
+    }    
+    .custom-topbar ul.custom-points li img {
+        margin-right: 5px;
+    }
+}
+@media(max-width: 1054px){
+    .custom-topbar ul.custom-points li span {
+       font-size: 12px;
+    }
+    .custom-topbar {
+        padding: 20px 10px;
+    }
+    section.block-slider .slider-left {
+        width: calc(100% - 400px);
+    }
+    section.block-slider .slider-right {
+        width: 390px;
+    }
+}
+@media(max-width: 767px){
+    .custom-btn-area{
+        display: flex;
+        margin-left: 0px;
+    }
+    
+    .oa-heading{
+        visibility: visible;
+        padding:6px;
+        font-size:25px;
+    }
+.custom-specpoints {
+    display: flex;
+    justify-content: center;
+}
+    
+.part2{
+    padding-left:0px;
+}
+.list-items{
+    flex-direction: column;
+    align-items: center;
+}
+    .custom-map-section .wrapper .inner-wrap {
+        flex-direction: column;
+    }
+    button.custom-reservez {
+        justify-content: center;
+    }
+    .scroll-body .mobile-fixed-bar {
+        display: flex !important;
+        position: fixed;
+        bottom: 0px;
+        width: 100%;
+        flex-direction: row-reverse;
+        z-index: 99;
+    }
+    button.custom-reservez, button.custom-contact-button.custom-contracter {
+        width: 100% !important;
+    }
+    /*.reassurance-block.slick-slide.slick-current.slick-center {
+        margin-right: 20px;
+    }
+    .reassurance-block.slick-slide.slick-current.slick-center + .reassurance-block.slick-slide {
+        margin-left: -40px;
+    }*/
+    .mobile-fixed-bar button.custom-reservez {
+        border: 2px solid #00A2E0;
+        font-family: 'Peugeot';
+        font-size: 10px;
+        line-height: 100%;
+        letter-spacing: 1px;
+        min-height: 42px;
+        font-weight: 600;
+        cursor: pointer;
+        color: #00A2E0;
+        background: #fff;
+        padding: 14px;
+        text-transform: uppercase;
+    }
+    .mobile-fixed-bar button.custom-contact-button {
+        margin: 0px !important;
+    }
+    .custom-topbar ul.custom-points {
+        margin: 0px !important;
+    }
+    .custom-topbar ul.custom-points li span {
+        font-size: 14px;
+        display:inline-block;
+        vertical-align: middle;
+    }
+    .left-bonus-sec, .right-route-sec {
+        width: 100%;
+        margin: 0px !important;
+    }
+    .custom-topbar button.slick-arrow {
+        display: none !important;
+    }
+    section.block-slider .slider-left {
+        width: 100%;
+    }
+    header.peugeot nav {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+    section.block-slider .slider-right {
+        width: 100% !important;
+        margin-top: 12px;
+    }
+    .custom-title {
+        font-size: 16px;
+        margin-bottom: 3px;
+    }
+    .custom-desc {
+        font-size: 14px;
+    }
+    .custom-mobile{
+        display: block !important;
+    }
+    .custom-desktop{
+        display: none !important;
+    }
+    .custom-price {
+        justify-content: center;
+    }
+    .custom-bottom-spec .inner-wrap {
+        width: 100%;
+    }
+    .custom-bottom-spec {
+        text-align: center;
+        display: flex;
+        align-items: center;
+    }
+    .custom-btn-area {
+        margin: 0 auto;
+        text-align: center;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .custom-specpoints ul {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .custom-specpoints ul li {
+        margin-bottom: 6px;
+    }
+    .click-sec {
+        margin: -7px;
+    }
+    .click-sec .expandable-ico {
+        position: relative;
+        top: -23px;
+        left: 160px;
+    }
+    .custom-price .custom-ttc, .custom-price .custom-mois, .custom-price span.val {
+        font-family: Peugeot;
+        font-size: 18px;
+    }    
+    .click-sec .expendable-details {
+        display: none !important;
+    }
+    .custom-bottom-spec {
+        background: #F7F7F7;
+        padding: 20px 14px;
+    }
+    .click-sec div#link-details em {
+        display: none !important;
+    }
+    .custom-topbar {
+        padding: 15px 10px;
+    }
+    .custom-topbar ul.custom-points li {
+        padding-left: 6px;
+        padding-right: 6px;
+        text-align: center;
+    }
+    .value-sec .big-text {
+        font-size: 14px !important;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 0px;
+    }
+    .value-sec .row.myrow .table-cell {
+        padding-left: 0px;
+        padding-right: 10px;
+        padding-bottom: 5px;
+        font-size: 15px;
+        padding-top: 7px;
+    }
+    .value-sec .row.options .small-text.table-cell {
+        width: 100px !important;
+        padding-right: 10px;
+    }
+    .value-sec div#ctl00_cphPage_ctl07_ConseilsAcompteLibDiv .small-text {
+        padding-left: 10px;
+    }
+    h2.center.custom-vehicle {
+        margin-top: 30px;
+    }
+    .reassurance-block .reassurance-number {
+        padding: 15px;
+    }
+    .accordion-title.link.accordion-details {
+        font-weight: 600;
+    }
+    .accordion-title.link.accordion-details em.CurrentDealerName.synthesis-mobile-disable {
+        display: block !important;
+        margin-top: 5px !important;
+    }
+    .adress-contact.top .synthesis-mobile-active.padding {
+        display: none !important;
+    }
+    div#sfg_fasol .Financement-text-primary:before{
+        display: none !important;
+    }
+    .logo_mobile {
+        position: relative;
+        left: 33px;
+    }   
+    .custom-topbar ul.custom-points li img{
+        display: inline-block;
+        vertical-align:middle;
+    } 
+    .RecoveryAndFinance button#widgetView, div#sfg_fasol button#btnFinancement {
+        margin: 20px auto 0;
+        display: block;
+    }
+    .value-sec {
+        padding: 10px 0px;
+    }
+    .value-sec .row.myrow .table-cell.big-text.expendable-highlight-total {
+        padding-left: 10px !important;
+    }
+    /*.reassurance-block.slick-slide.slick-current.slick-center:last-child {
+        margin-right: 0px !important;
+    }*/
+    span.price-ttc-check {
+        font-size: 18px;
+        color: #000;
+        padding-left: 3px;
+        font-family: Peugeot !important;
+        font-weight: 700;
+    }
+}
+@media(max-width: 540px){
+    .click-sec .expandable-ico {
+        position: relative;
+        top: -20px;
+        left: 134px !important;
+    }
+ 
+    button.custom-reservez {
+        width: 100% !important;
+        text-align: center;
+        margin: 0 auto;
+        align-items: center;
+        justify-content: center;
+    }
+    button.custom-reservez2 {
+        width: 100% !important;
+        text-align: center;
+        margin: 0 auto;
+        align-items: center;
+        justify-content: center;
+    }
+    .RecoveryAndFinance span.Prime-reprise-title,
+    div#sfg_fasol .Financement-Title {
+        font-size: 13px;
+    }
+    .RecoveryAndFinance span.Estimation-value, .RecoveryAndFinance span.Prime-reprise-ttc {
+        font-size: 12px;
+    }
+    .RecoveryAndFinance span.Financement-text-primary {
+        font-size: 11px;
+    }
+    .RecoveryAndFinance button#widgetView, div#sfg_fasol button#btnFinancement {
+        font-size: 11px;
+    }
+    div#sfg_fasol button#btnFinancement {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .RecoveryAndFinance button#widgetView, div#sfg_fasol button#btnFinancement {
+        font-size: 11px;
+        width: 100%;
+    }
+    div#sfg_fasol .Financement-text-primary {
+        display: inline-block;
+        font-size: 13px;
+    }
+    .reassurance-block .reassurance-number {
+        background: #4CC9F9;
+        color: #020203;
+        width: 33px;
+        height: 33px;
+        font-size: 15px;
+        font-family: Peugeot;
+        font-weight: 600;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        display: block !important;
+        margin: 0px !important;
+        top: 0px;
+        left: 4px;
+        margin-bottom: 15px !important;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        left: 50%;
+        transform: translate(-50%);
+    }    
+}
+@media(max-width: 464px){
+    /*.reassurance-content.custom-command {
+        margin-left: -20px !important;
+        margin-right: -20px !important;
+        margin-bottom: 30px;
+    }*/    
+    section.description-section ul.slick-dots {
+        position: relative;
+    }
+}
+
+
+.custom-specpoints {
+    display: flex;
+}
+
+button#btnOrder2 {}
+
+button#btnOrder2 {}
+
+ul {
+}
+
+section.block-slider {
+}
+
+ul.slick-dots {
+    bottom: 42px;
+}
+
+
+section#external_view_slider {
+    min-height: 390px;
+}
+
+.list-items {
+    display: flex;
+}
+
+div {
+    margin-left: 0px;
+}
+
+.part2{
+    margin-left: -8px;
+}
+@media(max-width: 1054px){
+    .list-items{
+        flex-direction:column;
+    }
+    .part2{
+        padding-left: 10px;
+    }
+}
+
+button#btnOrder3 {
+    background: #00A2E0;
+    font-family: 'peugeot';
+    font-size: 14px;
+    line-height: 100%;
+    display: flex;
+    align-items: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-weight: 600;
+    padding: 19px 10px;
+    /* margin-left: 18px; */
+    border: 0px;
+    cursor: pointer;
+}
