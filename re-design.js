@@ -96,7 +96,7 @@
 			'		  <div class="custom-price"><div class="custom-ttc"></div><span class="price-ttc-check"> € TTC </span><span class="custom-ou">ou</span><div class="custom-mois"></div><span class="val">€/Mois</span></div>',
 			'			<div class="custom-detailsclick"><div class="click-sec"></div><div class="value-sec"></div></div>',
             '           <div class="list-items">',
-            '           <div class="part1">',
+            '           <div class="order-in-line">',
             '           <div class="custom-btn-area"><button class="custom-reservez" id="btnOrder2"><span class="custom-desktop">COMMANDEZ EN LIGNE</span><span class="custom-mobile">Commander en ligne</span></button></div>',
 			'			<div class="custom-specpoints">',
 			'				<ul>',
@@ -107,13 +107,13 @@
 			'			</div>	',
             '           </div>',
 			'			<div class="oa-heading">OU</div>',
-            '           <div class="part2">',
+            '           <div class="point-of-sale">',
             '           <div class="custom-btn-area"><button class="custom-reservez2" id="btnOrder3"><span class="custom-desktop">CONTACTEZ LE POINT DE VENTE</span><span class="custom-mobile">CONTACTEZ LE POINT DE VENTE</span></button></div>',
 			'			<div class="custom-specpoints">',
 			'				<ul>',
-			'					<li><img src="https://image.flaticon.com/icons/png/512/747/747376.png" class="custom-lock"><span>Conseil personnalisé</span></li>',
-			'					<li><img src="https://image.flaticon.com/icons/png/512/992/992700.png" class="custom-ant"><span>Rappel dans la journée</span></li>',
-			'					<li><img src="https://image.flaticon.com/icons/png/512/1077/1077976.png" class="custom-vector"><span>Aide au financement</span></li>',
+			'					<li><img src="https://image.flaticon.com/icons/png/512/747/747376.png" class="custom-personal"><span>Conseil personnalisé</span></li>',
+			'					<li><img src="https://image.flaticon.com/icons/png/512/992/992700.png" class="custom-time"><span>Rappel dans la journée</span></li>',
+			'					<li><img src="https://image.flaticon.com/icons/png/512/1077/1077976.png" class="custom-fund"><span>Aide au financement</span></li>',
 			'				</ul>	',
             '           </div>',
 			'			</div>	',
@@ -185,9 +185,9 @@
 				jQuery('.order-bar .order button#btnOrder2').click();
 			});	
 			jQuery('.custom-btn-area button.custom-reservez2,.custom-reservez2.custom-commander').on('click', function(){
-				console.log('check')
-				customGaTracking('Content', 'Redirection::Order', 'COMMANDEZ EN LIGNE', 0);
-				jQuery('.order-bar .order button#btnOrder2').click();
+				//console.log('check')
+				//customGaTracking('Content', 'Redirection::Order', 'COMMANDEZ EN LIGNE', 0);
+				jQuery('.order-bar .order button#BtContacterPDV2').click();
 			});	
 
 
