@@ -36,6 +36,7 @@ header{
     display: flex;
     align-items: baseline;
     justify-content: space-between;
+    background-color: #f2f2f2;
 }
 
 @media (max-width:1024px){
@@ -58,12 +59,26 @@ header{
      width: 80px;
     }
 }
-@media (max-width:380px){
+@media (max-width:374px){
     .container-fluid section div.row>div {
             grid-template-columns:1fr;
     }
     .card .card-body div:nth-of-type(2) button{
-     width: 104px;
+     width: 80px;
     }
 }
 
+
+
+.sticky-inner-wrapper section div div {
+    width: 78px;
+    height: 78px;
+    min-width: 78px;
+    border: 3px dashed #bcb6b6;
+    background-color: #f2f2f2;
+}
+
+
+.container-fluid section {
+    background-color: #f2f2f2;
+}
